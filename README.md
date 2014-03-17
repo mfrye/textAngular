@@ -1,7 +1,17 @@
-textAngular v1.2.0
-===========
+Full Featured textAngular
+=========================
 
-Demo is available at: http://www.textangular.com
+I built this because I needed a lot more stuff that wasn't included in the default textAngular. This is a work in progress and currently includes the following extras:
+
+- Colorpicker via angular-bootstrap-colorpicker
+- Font family
+- Font size
+- Indent / outdent
+- Added angular-ui bootstrap dropdown toggle to hold common items
+  - h1-h6 and p formatBlocks
+  - text alignment
+
+Many thanks for the hard work put in by @fraywing on textAngular and @buberdds on angular-bootstrap-colorpicker.
 
 ## Requirements
 
